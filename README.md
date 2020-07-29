@@ -5,7 +5,7 @@ I am Bishab Pokharel, a data scientist and a machine learning enthusiast from Ne
 - 📚 Currently in third year of B.Tech in Lovely Professional University, India 
 - 🔭 Currently working as a freelancer 
 - 🌱 Learning everything I get to see what's new in this vast big world of Data Science
-- 👯 Looking to collaborate on Machine Learning projects (cause a single Decision Tree is not as accurate as the Random Forest is!)
+- 👯 Looking to collaborate on Machine Learning projects <i>(cause a single Decision Tree is not as accurate as the Random Forest is!)</i>
 
 I like to play around with zillions of data, who else doesn't?
 
