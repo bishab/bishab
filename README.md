@@ -1,16 +1,28 @@
-### Hi there 👋
+29th July,2020
+<br>Nepal,
+### Namastey! 🙏
+I am Bishab Pokharel, a data scientist and a machine learning enthusiast from Nepal. <br>
+- 📚 Currently in third year of B.Tech in Lovely Professional University, India 
+- 🔭 Currently working as a freelancer 
+- 🌱 Learning everything I get to see what's new in this vast big world of Data Science
+- 👯 Looking to collaborate on Machine Learning projects (cause a single Decision Tree is not as accurate as the Random Forest is!)
 
-<!--
-**bishab/bishab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to play around with zillions of data, who else doesn't?
 
-Here are some ideas to get you started:
+## A little more...
+I have completed several projects on my early phase of coding esp. in C, C++, JAVA, PYTHON and R (which, now, have been an integral part of my life).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now is the time to get hands dirty with incomplete, messy, millions long complex swirly datasets of people and things and turn those into some beautiful models that can do something out of the world!! <b> Isn't it interesting to predict the future? </b>
+
+Come along with me! We will get to land somewhere in the future with our predictions, 
+as Shakespeare says<br>
+<i> Better three hours too soon than a minute too late.</i>
+  
+  <b> Let's predict with ML!</b>
+
+Regards,<br>
+Bishab 
+<br>
+
+<b>P.S. Please write to me in my<a href="https://www.instagram.com/__bishab/">Instagram</a> and <a href="https://twitter.com/_bishab">Twitter</a>. Here's my <a href="https://www.kaggle.com/bishabpokharel">Kaggle</a> too. Let's get connected!
+</b>
