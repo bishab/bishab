@@ -10,7 +10,7 @@ I am Bishab Pokharel, a data scientist and a machine learning enthusiast from Ne
 I like to play around with zillions of data, who else doesn't?
 
 ## A little more...
-I have completed several projects on my early phase of coding esp. in C, C++, JAVA, PYTHON and R (which, now, have been an integral part of my life).
+I have completed several projects on my early phase of coding esp. in C, C++, JAVA,R and PYTHON (which, as of now, have been an integral part of my life).
 
 Now is the time to get hands dirty with incomplete, messy, millions long complex swirly datasets of people and things and turn those into some beautiful models that can do something out of the world!! <b> Isn't it interesting to predict the future? </b>
 
