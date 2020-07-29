@@ -18,7 +18,7 @@ Come along with me! We will get to land somewhere in the future with our predict
 as Shakespeare says<br>
 <i> Better three hours too soon than a minute too late.</i>
   
-  <b> Let's predict with ML!</b>
+  <b> Let's build with ML!</b>
 
 Regards,<br>
 Bishab 
