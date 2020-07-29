@@ -24,5 +24,5 @@ Regards,<br>
 Bishab 
 <br>
 
-<b>P.S. Please write to me in my <a href="https://www.instagram.com/__bishab/">Instagram</a> and <a href="https://twitter.com/_bishab">Twitter</a>. Here's my <a href="https://www.kaggle.com/bishabpokharel">Kaggle</a> too. Let's get connected!
+<b>P.S. Please write to me in my <a href="https://www.linkedin.com/in/bishabpokharel/">LinkedIn</a> and <a href="https://twitter.com/_bishab">Twitter</a>. Here's my <a href="https://www.kaggle.com/bishabpokharel">Kaggle</a> too. Let's get connected!
 </b>
