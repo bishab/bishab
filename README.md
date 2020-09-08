@@ -1,7 +1,7 @@
 29th July,2020
 <br>Nepal,
 ### Namaste! 🙏
-I am Bishab Pokharel, a data science and a machine learning enthusiast from Nepal. <br>
+I am Bishab Pokharel, a data science and machine learning enthusiast from Nepal. <br>
 - 📚 Currently in third year of B.Tech in Lovely Professional University, India 
 - 🔭 Currently working as a freelancer 
 - 🌱 Learning everything I get to see what's new in this vast big world of Data Science
